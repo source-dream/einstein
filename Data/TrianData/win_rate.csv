@@ -1,0 +1,6 @@
+role1     ,role2     ,role1_win ,role2_win ,role1_rate
+random    ,random    ,2163      ,2157      ,0.500694  
+lucky     ,random    ,4334      ,1668      ,0.722093  
+killer    ,random    ,2137      ,1863      ,0.534250  
+lucky     ,killer    ,2142      ,858       ,0.714000  
+cmcts     ,random    ,37        ,43        ,0.462500  
